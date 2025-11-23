@@ -1,0 +1,52 @@
+produto,categoria,valor,quantidade,data_venda
+Mouse,Periféricos,50,8,2025-10-01
+Teclado,Periféricos,120,6,2025-10-01
+Monitor,Monitores,800,3,2025-10-02
+Cadeira Gamer,Móveis,950,2,2025-10-02
+Headset,Áudio,200,5,2025-10-03
+Notebook,Computadores,4200,4,2025-10-03
+Mousepad,Periféricos,45,10,2025-10-04
+Impressora,Impressão,650,2,2025-10-04
+Pen Drive,Armazenamento,60,12,2025-10-05
+HD Externo,Armazenamento,350,3,2025-10-05
+SSD,Armazenamento,500,5,2025-10-06
+Webcam,Imagem,220,4,2025-10-06
+Microfone,Áudio,300,3,2025-10-07
+Cabo HDMI,Acessórios,35,15,2025-10-07
+Caixa de Som,Áudio,180,4,2025-10-08
+Tablet,Dispositivos,1500,2,2025-10-08
+Smartphone,Dispositivos,2500,6,2025-10-09
+Suporte para Notebook,Acessórios,90,7,2025-10-09
+Fonte 600W,Hardware,400,3,2025-10-10
+Placa de Vídeo,Hardware,3200,2,2025-10-10
+Memória RAM,Hardware,450,5,2025-10-11
+Processador,Hardware,1800,3,2025-10-11
+Placa Mãe,Hardware,900,2,2025-10-12
+Cooler,Hardware,150,6,2025-10-12
+Gabinete,Móveis,350,2,2025-10-13
+Carregador,Acessórios,120,9,2025-10-13
+Bateria,Acessórios,200,8,2025-10-14
+Hub USB,Acessórios,80,10,2025-10-14
+Adaptador Bluetooth,Acessórios,60,12,2025-10-15
+Cabo USB-C,Acessórios,30,20,2025-10-15
+Fone Bluetooth,Áudio,250,6,2025-10-16
+Projetor,Imagem,1800,1,2025-10-16
+Controle Xbox,Periféricos,400,3,2025-10-17
+Controle PS5,Periféricos,500,2,2025-10-17
+Smartwatch,Dispositivos,900,4,2025-10-18
+Teclado Mecânico,Periféricos,650,2,2025-10-18
+Mouse Gamer,Periféricos,350,3,2025-10-19
+Roteador Wi-Fi,Redes,280,5,2025-10-19
+Câmera DSLR,Imagem,4200,1,2025-10-20
+Tripé,Acessórios,300,4,2025-10-20
+Ring Light,Iluminação,220,3,2025-10-21
+MicroSD 128GB,Armazenamento,150,10,2025-10-21
+Case Notebook,Acessórios,100,7,2025-10-22
+Dock Station,Acessórios,450,2,2025-10-22
+Caixa Bluetooth,Áudio,320,5,2025-10-23
+Monitor Ultrawide,Monitores,2400,1,2025-10-23
+Placa de Som USB,Áudio,180,4,2025-10-24
+Estabilizador,Eletricidade,380,2,2025-10-24
+No-break,Eletricidade,950,1,2025-10-25
+Scanner,Impressão,700,2,2025-10-25
+TV 4K,Imagem,3500,1,2025-10-26

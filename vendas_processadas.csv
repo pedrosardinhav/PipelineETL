@@ -1,0 +1,52 @@
+produto,categoria,valor,quantidade,data_venda,valor_total,valor_com_imposto
+Mouse,Periféricos,50.0,8.0,2025-10-01,R$400.00,R$55.00
+Teclado,Periféricos,120.0,6.0,2025-10-01,R$720.00,R$132.00
+Monitor,Monitores,800.0,3.0,2025-10-02,"R$2,400.00",R$880.00
+Cadeira Gamer,Móveis,950.0,2.0,2025-10-02,"R$1,900.00","R$1,045.00"
+Headset,Áudio,200.0,5.0,2025-10-03,"R$1,000.00",R$220.00
+Notebook,Computadores,4200.0,4.0,2025-10-03,"R$16,800.00","R$4,620.00"
+Mousepad,Periféricos,45.0,10.0,2025-10-04,R$450.00,R$49.50
+Impressora,Impressão,650.0,2.0,2025-10-04,"R$1,300.00",R$715.00
+Pen Drive,Armazenamento,60.0,12.0,2025-10-05,R$720.00,R$66.00
+HD Externo,Armazenamento,350.0,3.0,2025-10-05,"R$1,050.00",R$385.00
+SSD,Armazenamento,500.0,5.0,2025-10-06,"R$2,500.00",R$550.00
+Webcam,Imagem,220.0,4.0,2025-10-06,R$880.00,R$242.00
+Microfone,Áudio,300.0,3.0,2025-10-07,R$900.00,R$330.00
+Cabo HDMI,Acessórios,35.0,15.0,2025-10-07,R$525.00,R$38.50
+Caixa de Som,Áudio,180.0,4.0,2025-10-08,R$720.00,R$198.00
+Tablet,Dispositivos,1500.0,2.0,2025-10-08,"R$3,000.00","R$1,650.00"
+Smartphone,Dispositivos,2500.0,6.0,2025-10-09,"R$15,000.00","R$2,750.00"
+Suporte para Notebook,Acessórios,90.0,7.0,2025-10-09,R$630.00,R$99.00
+Fonte 600W,Hardware,400.0,3.0,2025-10-10,"R$1,200.00",R$440.00
+Placa de Vídeo,Hardware,3200.0,2.0,2025-10-10,"R$6,400.00","R$3,520.00"
+Memória RAM,Hardware,450.0,5.0,2025-10-11,"R$2,250.00",R$495.00
+Processador,Hardware,1800.0,3.0,2025-10-11,"R$5,400.00","R$1,980.00"
+Placa Mãe,Hardware,900.0,2.0,2025-10-12,"R$1,800.00",R$990.00
+Cooler,Hardware,150.0,6.0,2025-10-12,R$900.00,R$165.00
+Gabinete,Móveis,350.0,2.0,2025-10-13,R$700.00,R$385.00
+Carregador,Acessórios,120.0,9.0,2025-10-13,"R$1,080.00",R$132.00
+Bateria,Acessórios,200.0,8.0,2025-10-14,"R$1,600.00",R$220.00
+Hub USB,Acessórios,80.0,10.0,2025-10-14,R$800.00,R$88.00
+Adaptador Bluetooth,Acessórios,60.0,12.0,2025-10-15,R$720.00,R$66.00
+Cabo USB-C,Acessórios,30.0,20.0,2025-10-15,R$600.00,R$33.00
+Fone Bluetooth,Áudio,250.0,6.0,2025-10-16,"R$1,500.00",R$275.00
+Projetor,Imagem,1800.0,1.0,2025-10-16,"R$1,800.00","R$1,980.00"
+Controle Xbox,Periféricos,400.0,3.0,2025-10-17,"R$1,200.00",R$440.00
+Controle PS5,Periféricos,500.0,2.0,2025-10-17,"R$1,000.00",R$550.00
+Smartwatch,Dispositivos,900.0,4.0,2025-10-18,"R$3,600.00",R$990.00
+Teclado Mecânico,Periféricos,650.0,2.0,2025-10-18,"R$1,300.00",R$715.00
+Mouse Gamer,Periféricos,350.0,3.0,2025-10-19,"R$1,050.00",R$385.00
+Roteador Wi-Fi,Redes,280.0,5.0,2025-10-19,"R$1,400.00",R$308.00
+Câmera DSLR,Imagem,4200.0,1.0,2025-10-20,"R$4,200.00","R$4,620.00"
+Tripé,Acessórios,300.0,4.0,2025-10-20,"R$1,200.00",R$330.00
+Ring Light,Iluminação,220.0,3.0,2025-10-21,R$660.00,R$242.00
+MicroSD 128GB,Armazenamento,150.0,10.0,2025-10-21,"R$1,500.00",R$165.00
+Case Notebook,Acessórios,100.0,7.0,2025-10-22,R$700.00,R$110.00
+Dock Station,Acessórios,450.0,2.0,2025-10-22,R$900.00,R$495.00
+Caixa Bluetooth,Áudio,320.0,5.0,2025-10-23,"R$1,600.00",R$352.00
+Monitor Ultrawide,Monitores,2400.0,1.0,2025-10-23,"R$2,400.00","R$2,640.00"
+Placa de Som USB,Áudio,180.0,4.0,2025-10-24,R$720.00,R$198.00
+Estabilizador,Eletricidade,380.0,2.0,2025-10-24,R$760.00,R$418.00
+No-break,Eletricidade,950.0,1.0,2025-10-25,R$950.00,"R$1,045.00"
+Scanner,Impressão,700.0,2.0,2025-10-25,"R$1,400.00",R$770.00
+TV 4K,Imagem,3500.0,1.0,2025-10-26,"R$3,500.00","R$3,850.00"
